@@ -1,4 +1,6 @@
 # C5-ZERO_0.96-Oled-Display
+[C5_0.96_schematic.pdf](https://github.com/user-attachments/files/26047865/C5_0.96_schematic.pdf)
+
 diy flipper zero esp32-c5
 <img width="1728" height="366" alt="image" src="https://github.com/user-attachments/assets/63d5d696-1130-43b9-9229-535102a00d4c" />
 <img width="1324" height="1116" alt="image" src="https://github.com/user-attachments/assets/fe458b45-8950-44df-87f7-57e48cdebbd1" />
